@@ -130,19 +130,4 @@ Contributions welcome — submit a pull request or open an issue describing the 
 
 ---
 
-## License
 
-Include your preferred license here (e.g., MIT, Apache-2.0). Example header:
-
-```
-MIT License
-(c) Your Name
-```
-
----
-
-If you want, I can also:
-
-* Generate example `wordlist.txt` and `target_hash.txt` for testing
-* Modify the README to include more detailed compilation flags for specific OSes
-* Add a sample `Makefile` and improved key-derivation code snippet
